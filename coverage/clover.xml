@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642498810548" clover="3.2.0">
-  <project timestamp="1642498810548" name="All files">
+<coverage generated="1642499516833" clover="3.2.0">
+  <project timestamp="1642499516833" name="All files">
     <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="7" coveredelements="5" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
     <file name="main.js" path="/home/runner/TIAMonday/monday/src/main.js">
       <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
