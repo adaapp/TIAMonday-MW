@@ -1,0 +1,21 @@
+{
+  "name": "TIA-Monday",
+  "version": "1.0.0",
+  "main": "./monday/src/main.js",
+  "scripts": {
+    "test": "jest --passWithNoTests --watchAll --config ./jest.config.json",
+    "dev-1": "nodemon ./monday/src/main.js",
+    "dev": "node ./monday/src/main.js"
+  },
+  "keywords": [],
+  "author": "Mike Watkins",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "node": "^17.3.1"
+  },
+  "dependencies": {
+    "npm": "^8.3.1"
+  },
+  "description": ""
+}
